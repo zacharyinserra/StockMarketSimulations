@@ -1,0 +1,1 @@
+python "C:\Code\StockMarketSimulations\ema.py"
